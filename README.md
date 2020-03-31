@@ -1,6 +1,6 @@
 # noHuzzah
 // NXP 9 dof calibration issue using Huzzah esp32
-
+// Help please! haha
 // Hello people whom are far smarter than I!
 // I have next to zero experience with coding etc, and am after some help with an issue I've run into.
 // I have recently aquired an Adafruit Huzzah ESP32, to replace my UNO.
